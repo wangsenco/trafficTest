@@ -1,0 +1,35 @@
+{
+	"poki_template_version": 1,
+	"extra_html": {
+	  "head": [
+		"<!-- will be copied to the resulting head //-->"
+	  ],
+	  "body": [
+		"<!-- will be copied to the resulting body //-->",
+		"<!-- will also be copied to the resulting body //-->"
+	  ]
+	},
+	"background_color": "#000000",
+	"background_filename": "",
+	"code_filename": "Web.wasm",
+	"company_name": "DefaultCompany",
+	"data_filename": "Web.data",
+	"decompression_fallback": "",
+	"development_player": "false",
+	"framework_filename": "Web.framework.js",
+	"height": "600",
+	"loader_filename": "Web.loader.js",
+	"memory_filename": "",
+	"product_name": "Traffic Rush",
+	"product_version": "0.5.0",
+	"splash_screen_style": "Dark",
+	"symbols_filename": "",
+	"total_memory": "16777216",
+	"unity_version": "2020.1.10f1",
+	"use_data_caching": "true",
+	"use_threads": "false",
+	"use_wasm": "true",
+	"use_webgl_1_0": "true",
+	"use_webgl_2_0": "true",
+	"width": "960"
+  }
